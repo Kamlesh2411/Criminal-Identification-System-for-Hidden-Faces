@@ -1,5 +1,5 @@
 # Criminal-Identification-System-for-Hidden-Faces
-This My Third Year EDI Project 
+This is My Third Year EDI Project 
 
 This Project focuses on the development of a Facial Detection & Recognition-based Criminal Identification System combining the Haar Cascade Classifier and LBPH Face Recognizer.
 The system comprises three core phases: data collection, training, and real-time testing. It efficiently detects and recognizes faces, including those with glasses or masks,
